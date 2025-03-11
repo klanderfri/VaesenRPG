@@ -25,4 +25,5 @@ jobs:
           # Creates a file named documents.zip containing the rendered PDFs.
           name: documents
           # Adds all PDFs to the ZIP-archive.
-          path: *.pdf
+          path: |
+            *.pdf
