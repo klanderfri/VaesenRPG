@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>vaesen-locations.kml</name>
+	<open>1</open>
+	
+	<StyleMap id="msn_blu-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_blu-blank">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_blu-blank">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	
+	<Folder>
+		<name>Nordiska väsen</name>
+		<open>1</open>
+		<description>Platser dit Sällskapets medlemmar förts i jakt på mysteriernas lösningar.</description>
+		
+		<Folder>
+			<name>Årstidernas mysterier</name>
+			<open>1</open>
+			<description></description>
+			
+			<Placemark>
+				<name>Jons Gustavs stuga</name>
+				<description></description>
+				<LookAt>
+					<longitude>14.721105</longitude>
+					<latitude>60.951094</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>14.721105,60.951094,0</coordinates>
+				</Point>
+			</Placemark>
+		
+			<Placemark>
+				<name>Fudalskogen</name>
+				<description></description>
+				<LookAt>
+					<longitude>14.716375</longitude>
+					<latitude>60.951065</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>14.716375,60.951065,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Ängen</name>
+				<description></description>
+				<LookAt>
+					<longitude>14.713627</longitude>
+					<latitude>60.949923</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>14.713627,60.949923,0</coordinates>
+				</Point>
+			</Placemark>
+			
+		</Folder>
+		<Folder>
+			<name>Drömmarnas dans</name>
+			<open>1</open>
+			<description></description>
+			
+			<Placemark>
+				<name>Värdshuset Häxkatten</name>
+				<description></description>
+				<LookAt>
+					<longitude>17.693803</longitude>
+					<latitude>59.667927</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>17.693803,59.667927,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Färjeläge</name>
+				<description></description>
+				<LookAt>
+					<longitude>17.586322</longitude>
+					<latitude>59.660558</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>17.586322,59.660558,0</coordinates>
+				</Point>
+			</Placemark>
+			
+		</Folder>
+		<Folder>
+			<name>Sagan om berget som försvann</name>
+			<open>1</open>
+			<description></description>
+			
+			<Placemark>
+				<name>Gruvan</name>
+				<description></description>
+				<LookAt>
+					<longitude>15.615715</longitude>
+					<latitude>60.596429</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>15.615715,60.596429,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Värdshuset</name>
+				<description></description>
+				<LookAt>
+					<longitude>15.620739</longitude>
+					<latitude>60.612852</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>15.620739,60.612852,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Prästgården</name>
+				<description></description>
+				<LookAt>
+					<longitude>15.632950</longitude>
+					<latitude>60.607896</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>15.632950,60.607896,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Kyrkan</name>
+				<description></description>
+				<LookAt>
+					<longitude>15.630672</longitude>
+					<latitude>60.607873</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>15.630672,60.607873,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Järnvägsstation</name>
+				<description></description>
+				<LookAt>
+					<longitude>15.655730</longitude>
+					<latitude>60.597902</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>15.655730,60.597902,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Abisko Gruva</name>
+				<description></description>
+				<LookAt>
+					<longitude>18.940853</longitude>
+					<latitude>68.306134</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>18.940853,68.306134,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Lindormens slott</name>
+				<description></description>
+				<LookAt>
+					<longitude>17.753859</longitude>
+					<latitude>59.943221</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>17.753859,59.943221,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Hedvigs stuga</name>
+				<description></description>
+				<LookAt>
+					<longitude>17.726339</longitude>
+					<latitude>59.927402</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>17.726339,59.927402,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Runstenar</name>
+				<description></description>
+				<LookAt>
+					<longitude>17.705351</longitude>
+					<latitude>59.916220</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>17.705351,59.916220,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>De kungliga högarna</name>
+				<description></description>
+				<LookAt>
+					<longitude>17.626820</longitude>
+					<latitude>59.896523</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>17.626820,59.896523,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Templet</name>
+				<description></description>
+				<LookAt>
+					<longitude>12.692834</longitude>
+					<latitude>67.669485</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.692834,67.669485,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Värdshuset</name>
+				<description></description>
+				<LookAt>
+					<longitude>12.698614</longitude>
+					<latitude>67.665445</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.698614,67.665445,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Sjöbodar</name>
+				<description></description>
+				<LookAt>
+					<longitude>12.697274</longitude>
+					<latitude>67.660545</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.697274,67.660545,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Franzibalds hus</name>
+				<description></description>
+				<LookAt>
+					<longitude>17.636611</longitude>
+					<latitude>59.861144</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>17.636611,59.861144,0</coordinates>
+				</Point>
+			</Placemark>
+			
+		</Folder>
+		<Folder>
+		
+			<name>Uppsala</name>
+			<open>1</open>
+			<description>Platserna kring högkvarteret i Uppsala, såsom beskrivna i grundreglerna.</description>
+			
+			<Placemark>
+				<name>Slottet Gyllencreutz</name>
+				<description></description>
+				<LookAt>
+					<longitude>17.634648</longitude>
+					<latitude>59.862576</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>17.634648,59.862576,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Upsala Hospital (mentalsjukhuset)</name>
+				<description></description>
+				<LookAt>
+					<longitude>17.651226</longitude>
+					<latitude>59.835267</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>17.651226,59.835267,0</coordinates>
+				</Point>
+			</Placemark>
+		
+		</Folder>
+		
+	</Folder>
+</Document>
+</kml>
