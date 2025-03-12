@@ -19,7 +19,7 @@ jobs:
         with:
           root_file: Documents/*/main.tex
         env:
-          TEXINPUTS: ".:Documents/*//:"
+          TEXINPUTS: ".:Documents//:"
       - name: Upload PDF files
         uses: actions/upload-artifact@v4
         with:
