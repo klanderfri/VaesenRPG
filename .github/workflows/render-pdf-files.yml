@@ -17,7 +17,7 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: Documents/*/main.tex
+          root_file: Documents/*/*.tex
         env:
           TEXINPUTS: ".:Documents//:"
       - name: Upload PDF files
