@@ -1,0 +1,38 @@
+% Template unshamefully stolen from
+% https://www.overleaf.com/latex/templates/fiction-novel-template/wsbhgwncfczy
+
+% Paper size is in preamble.sty
+\documentclass[12pt,openany]{book}
+
+%\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+
+% Meta data
+\newcommand{\authorname}{Björn Larsson}
+\newcommand{\booktitle}{Järnvägen till Saltsjöbaden}
+\newcommand{\subtitle}{En historia om ett väsens relation till nymodigheter}
+\newcommand{\publisher}{Larsson Bokförlag}
+\newcommand{\editionyear}{2025}
+\newcommand{\copyrightyear}{2025}
+\newcommand{\isbn}{978-91-00000-00-0}
+\title{\booktitle}
+\author{\authorname}
+
+% Get the local options.sty package.
+\usepackage{misc/options}
+\usepackage{multicol}
+
+\begin{document}
+
+\frontmatter
+\input{frontmatter/titlepage}
+\input{frontmatter/copyrightpage}
+\input{frontmatter/preface}
+\input{frontmatter/tocpage}
+
+\mainmatter
+\pagestyle{fancy}
+
+\input{content/chapter1}
+
+\end{document}
