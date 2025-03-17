@@ -114,6 +114,44 @@
 				</Point>
 			</Placemark>
 			
+			<Placemark>
+				<name>Häryds järnbruk</name>
+				<description>Bruket som August Härenstam har byggt upp med pengarna han stal från Eldhjärta.</description>
+				<LookAt>
+					<longitude>13.695662</longitude>
+					<latitude>57.313994</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>13.695662,57.313994,0</coordinates>
+				</Point>
+			</Placemark>
+			
+			<Placemark>
+				<name>Drakgrottan</name>
+				<description>Grottan där Eldhjärta har sitt tillhåll. Här har han samlat sin skatt, och det är här han måste besegras.</description>
+				<LookAt>
+					<longitude>13.738356</longitude>
+					<latitude>57.287612</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>13.738356,57.287612</coordinates>
+				</Point>
+			</Placemark>
+			
 		</Folder>
 		<Folder>
 			<name>Drömmarnas dans</name>
