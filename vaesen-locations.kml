@@ -263,6 +263,32 @@
 				
 			</Folder>
 			
+			<Folder>
+				<name>Djävulen på heden</name>
+				<open>1</open>
+				<description></description>
+				
+				<Placemark>
+					<name>Grimsted vejkro</name>
+					<description></description>
+					<LookAt>
+						<longitude>9.22</longitude>
+						<latitude>56.53</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>100000</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.218426,56.525247,0</coordinates>
+					</Point>
+				</Placemark>
+				
+			</Folder>
+			
 		</Folder>
 		
 		<Folder>
