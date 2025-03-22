@@ -4,6 +4,22 @@
 \usepackage{graphicx}
 \usepackage{ebgaramond}
 
+\usepackage{changepage} % Allows changing text width on a page section
+\usepackage{ifthen}
+\newenvironment{narrowsection}[2]
+{
+	\ifthenelse{\equal{#2}{left}}
+	{
+		% Left aligned
+		\begin{adjustwidth}{0mm}{\dimexpr(210mm - #1)\relax}
+	}
+	{
+		% Use center aligned as default
+		\begin{adjustwidth}{\dimexpr(210mm - #1)/2\relax}{\dimexpr(210mm - #1)/2\relax}
+	}
+}
+{\end{adjustwidth}}
+
 \newcommand{\hsp}{\kern 1pt}    % for nested quotation marks
 
 % Paragraph formatting
