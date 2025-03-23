@@ -1,0 +1,34 @@
+% Template unshamefully stolen from
+% https://www.overleaf.com/latex/templates/fiction-novel-template/wsbhgwncfczy
+
+% Paper size is in the options.sty file.
+\documentclass[6pt,openany]{book}
+
+% Get the local options.sty package.
+\usepackage{misc/options}
+
+% Meta data.
+\newcommand{\authorname}{Björn Larsson}
+\newcommand{\booktitle}{Mysteriet på Mälaröarna}
+\newcommand{\subtitle}{Ett nordiskt skräckäventyr på öarna kring Stockholm}
+\newcommand{\publisher}{Larsson Bokförlag}
+\newcommand{\editionyear}{2025}
+\newcommand{\copyrightyear}{2025}
+\newcommand{\isbn}{978-91-00000-00-0}
+\title{\booktitle}
+\author{\authorname}
+
+% Document content.
+\begin{document}
+
+\frontmatter
+\input{frontmatter/titlepage}
+\input{frontmatter/copyrightpage}
+\input{frontmatter/tocpage}
+\input{frontmatter/preface}
+
+\mainmatter
+\pagestyle{fancy}
+\input{content/chapter1}
+
+\end{document}
