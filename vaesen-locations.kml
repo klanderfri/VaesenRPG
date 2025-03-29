@@ -644,6 +644,134 @@
 			
 		</Folder>
 		
+		<Folder>
+			<name>En grym hemlighet och andra mysterier</name>
+			<open>1</open>
+			<description></description>
+			
+			<Folder>
+				<name>Havets silver</name>
+				<open>1</open>
+				<description></description>
+				
+				<Placemark>
+					<name>Fjällbacka hamn</name>
+					<description></description>
+					<LookAt>
+						<longitude>11.280</longitude>
+						<latitude>58.598</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>5000</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>11.280,58.598,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Sillmagasinet</name>
+					<description></description>
+					<LookAt>
+						<longitude>11.223709</longitude>
+						<latitude>58.580038</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>275</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>11.223709,58.580038,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Residenset</name>
+					<description></description>
+					<LookAt>
+						<longitude>11.223314</longitude>
+						<latitude>58.579648</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>275</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>11.223314,58.579648,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Värdshuset</name>
+					<description></description>
+					<LookAt>
+						<longitude>11.223576</longitude>
+						<latitude>58.579468</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>275</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>11.223576,58.579468,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Kyrkogårdsön</name>
+					<description></description>
+					<LookAt>
+						<longitude>11.196</longitude>
+						<latitude>58.588</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>5000</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>11.196,58.588,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Djupeskär</name>
+					<description></description>
+					<LookAt>
+						<longitude>11.02</longitude>
+						<latitude>58.56</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>50000</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>11.02,58.56,0</coordinates>
+					</Point>
+				</Placemark>
+				
+			</Folder>
+			
+		</Folder>
+		
 	</Folder>
 </Document>
 </kml>
