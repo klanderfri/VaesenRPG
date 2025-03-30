@@ -841,6 +841,108 @@
 				
 			</Folder>
 			
+			<Folder>
+				<name>Nattsuggan</name>
+				<open>1</open>
+				<description></description>
+				
+				<Placemark>
+					<name>Mölle hamn</name>
+					<description></description>
+					<LookAt>
+						<longitude>12.493102</longitude>
+						<latitude>56.283672</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>2000</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>12.493102,56.283672,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Mölle kapell</name>
+					<description></description>
+					<LookAt>
+						<longitude>12.504824</longitude>
+						<latitude>56.281968</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>500</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>12.504824,56.281968,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Mölle badhotell</name>
+					<description></description>
+					<LookAt>
+						<longitude>12.492943</longitude>
+						<latitude>56.285618</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>500</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>12.492943,56.285618,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Bökargrottan</name>
+					<description></description>
+					<LookAt>
+						<longitude>12.501111</longitude>
+						<latitude>56.296389</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>1000</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>12.501111,56.296389,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Kullens fyr</name>
+					<description></description>
+					<LookAt>
+						<longitude>12.451512</longitude>
+						<latitude>56.301002</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>500</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>12.451512,56.301002,0</coordinates>
+					</Point>
+				</Placemark>
+				
+			</Folder>
+			
 		</Folder>
 		
 	</Folder>
