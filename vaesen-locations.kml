@@ -46,13 +46,13 @@
 			</ItemIcon>
 		</ListStyle>
 	</Style>
-	<StyleMap id="river-line">
+	<StyleMap id="river">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#river</styleUrl>
+			<styleUrl>#river-style</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="river">
+	<Style id="river-style">
 		<LineStyle>
 			<color>ffb13b00</color>
 			<width>50</width>
@@ -842,7 +842,7 @@
 				
 				<Placemark>
 					<name>Färnstaån</name>
-					<styleUrl>#river-line</styleUrl>
+					<styleUrl>#river</styleUrl>
 					<LineString>
 						<tessellate>1</tessellate>
 						<coordinates>
