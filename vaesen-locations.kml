@@ -61,6 +61,18 @@
 			<fill>0</fill>
 		</PolyStyle>
 	</Style>
+	<StyleMap id="area-of-influence">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area-of-influence-style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area-of-influence-style">
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
 	
 	<Folder>
 		<name>Nordiska väsen</name>
@@ -939,6 +951,139 @@
 						<gx:drawOrder>1</gx:drawOrder>
 						<coordinates>12.451512,56.301002,0</coordinates>
 					</Point>
+				</Placemark>
+				
+			</Folder>
+			
+			<Folder>
+				<name>Sången om den fallande stjärnan</name>
+				<open>1</open>
+				<description></description>
+				
+				<Placemark>
+					<name>von Kaiserlings hus</name>
+					<description></description>
+					<LookAt>
+						<longitude>22.483107</longitude>
+						<latitude>58.248873</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>500</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>22.483107,58.248873,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Helige Nikolaus kyrka</name>
+					<description></description>
+					<LookAt>
+						<longitude>22.483051</longitude>
+						<latitude>58.251067</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>500</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>22.483051,58.251067,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Sanatoriet</name>
+					<description></description>
+					<LookAt>
+						<longitude>22.476311</longitude>
+						<latitude>58.248630</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>1000</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>22.476311,58.248630,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Hamnen</name>
+					<description></description>
+					<LookAt>
+						<longitude>22.470030</longitude>
+						<latitude>58.245292</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>1000</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>22.470030,58.245292,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Gästgiveriet Tuljak</name>
+					<description></description>
+					<LookAt>
+						<longitude>22.670993</longitude>
+						<latitude>58.371848</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>500</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>22.670993,58.371848,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Kaali-sjön</name>
+					<description></description>
+					<LookAt>
+						<longitude>22.669352</longitude>
+						<latitude>58.372707</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>500</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_blu-blank</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>22.669352,58.372707,0</coordinates>
+					</Point>
+				</Placemark>
+				
+				<Placemark>
+					<name>Stjärnans kraftområde</name>
+					<description>Stjärnan som föll ner bröts upp i flera delar vid inträdet i atmosfären. De mindre delarna hamnade i närheten av huvudnedslaget och utgör det område stjärnan besitter kraft över.</description>
+					<styleUrl>#area-of-influence</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							22.6794355573008,58.37991457922222,-7.081154781429788e-10 22.68059519709723,58.37942632567273,0 22.68166922590136,58.37888693131672,-7.081154781429788e-10 22.6826494693381,58.37830050351683,0 22.68352846828923,58.3776715075711,-7.081154781429788e-10 22.68429953562717,58.37700473266177,0 22.68495680702951,58.37630525534146,-7.081154781429788e-10 22.68549528548911,58.37557840083699,0 22.68591087918555,58.3748297024671,0 22.68620043243367,58.37406485948441,0 22.68636174948055,58.37328969366413,0 22.68639361097549,58.37251010497076,0 22.68629578299566,58.37173202664113,0 22.68606901856626,58.37096138002599,0 22.68571505167147,58.37020402953396,0 22.68523658380956,58.36946573802055,0 22.68463726320227,58.36875212296088,0 22.68392165682348,58.36806861373893,-7.081154781429788e-10 22.68309521546629,58.36742041037704,0 22.68216423211974,58.36681244401825,0 22.68113579397617,58.36624933946031,0 22.68001772843764,58.3657353800248,0 22.6788185435336,58.36527447502674,0 22.67754736320394,58.3648701300898,0 22.67621385793885,58.36452542053154,0 22.67482817130088,58.36424296801872,-7.081154781429788e-10 22.67340084288476,58.3640249206691,0 22.67194272829655,58.36387293674876,0 22.67046491675541,58.36378817208848,0 22.66897864693803,58.36377127131318,0 22.66749522169942,58.36382236295063,0 22.66602592231115,58.36394105845628,-7.081154781429788e-10 22.66458192286167,58.36412645516134,0 22.6631742054628,58.36437714312225,0 22.66181347689978,58.36469121581955,-7.081154781429788e-10 22.66051008735248,58.36506628462627,0 22.65927395180005,58.36549949693653,0 22.65811447470173,58.36598755781799,0 22.65704047852292,58.36652675502541,0 22.6560601366474,58.36711298718644,-7.081154781429788e-10 22.65518091118445,58.36774179494738,0 22.65440949614404,58.36840839484391,0 22.6537517664134,58.36910771564109,0 22.6532127329257,58.36983443686798,0 22.65279650436566,58.37058302925541,0 22.65250625570839,58.37134779677096,-7.081154781429788e-10 22.65234420383649,58.37212291993247,0 22.65231159042796,58.3729025000716,0 22.65240867225211,58.37368060421144,0 22.65263471895527,58.37445131021701,-7.081154781429788e-10 22.6529880183611,58.37520875187514,0 22.65346588925256,58.37594716356028,0 22.65406470154655,58.37666092414597,0 22.65477990371408,58.37734459982648,0 22.65560605724377,58.3779929855217,0 22.65653687789213,58.37860114454854,0 22.65756528341027,58.37916444625507,-7.081154781429788e-10 22.65868344738744,58.37967860132946,0 22.65988285880325,58.38013969451232,0 22.66115438683531,58.38054421446205,0 22.66248835042868,58.38088908054347,0 22.66387459209475,58.38117166633387,0 22.66530255537453,58.38138981966601,0 22.66676136537196,58.38154187905349,0 22.66823991173824,58.38162668637255,0 22.66972693346935,58.38164359570209,0 22.67121110486373,58.3815924782544,-7.081154781429788e-10 22.67268112197831,58.38147372335831,0 22.67412578891684,58.38128823548712,0 22.67553410328621,58.38103742735447,0 22.6768953401625,58.38072320913113,0 22.67819913392102,58.38034797386582,-7.081154781429788e-10 22.6794355573008,58.37991457922222,-7.081154781429788e-10 
+						</coordinates>
+					</LineString>
 				</Placemark>
 				
 			</Folder>
